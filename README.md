@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mishty Vadera
 - 👀 I’m interested in collaborating in new projects !!!
-- 🌱 I’m currently learning Cloud Computuing .
+- 🌱 I’m currently learning Cloud Computing .
 - 📫 How to reach me
       Email : vaderamishty@gmail.com
 
